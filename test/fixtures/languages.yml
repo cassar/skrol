@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  name: english
+  iso_639_1: en
+
+two:
+  id: 2
+  name: esperanto
+  iso_639_1: eo
